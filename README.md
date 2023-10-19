@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate and work on interesting projects. Whether it's a web development project, or anything that involves coding and problem-solving, count me in.
 - 📫 You can reach out to me via:
 
-- GitHub: [github.com/SaadAliAlkhairi](https://github.com/SaadAliAlkhairi)
 - LinkedIn: [www.linkedin.com/in/saadali17](https://www.linkedin.com/in/saadali17)
 - Email: saad.ali.alkhairi@gmail.com
 
