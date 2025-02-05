@@ -7,7 +7,7 @@
 - 📫 You can reach out to me via:
 
 - LinkedIn: [www.linkedin.com/in/saadali17](https://www.linkedin.com/in/saadali17)
-- Email: saad.ali.alkhairi@gmail.com
+- Email: dev.saad.ali@gmail.com
 
 Let's connect, learn, and build great things together!
 
